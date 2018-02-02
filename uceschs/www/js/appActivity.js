@@ -3,5 +3,5 @@ function menuClicked() {
 }
 function replaceGraphs() { 
 var image = document.getElementById('graphdiv');
-image.src = "ucl.png";
+image.src = "images/ucl.png";
 } 
